@@ -5,9 +5,7 @@
 
 namespace Components
 {
-	Dvar::Var Branding::CGDrawVersion;
-	Dvar::Var Branding::CGDrawVersionX;
-	Dvar::Var Branding::CGDrawVersionY;
+
 
 #ifdef _DEBUG
 	constexpr auto* BUILD_TYPE = "IW4x_DEV MP";
